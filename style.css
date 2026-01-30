@@ -103,7 +103,7 @@ button:hover {
   }
 
   .buttons {
-    width: 100%;
+    width: 90%;
     align-items: center;
     margin-top: 20px;
   }
@@ -153,10 +153,5 @@ button:hover {
     width: 100%;
     font-size: 14px;
     padding: 12px 14px;
-  }
-}
-@media (max-width: 768px) {
-  .buttons {
-    width: 90%;
   }
 }
